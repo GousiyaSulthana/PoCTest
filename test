@@ -1,6 +1,6 @@
 public class test
 {
-public int testid{
+public int TestId{
 get;set;
 }
 
